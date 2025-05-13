@@ -1,0 +1,18 @@
+graph TD
+    A[Goal: Optimize 3D Nanofiber Fabrication] --> B[Method: Rotary Forcespinning]
+    B --> C[Process Parameters]
+    C --> D[Rotary Speed]
+    C --> E[Polymer Concentration]
+    C --> F[Nozzle Distance]
+    A --> G[Materials]
+    G --> H[Polyamide / PVDF]
+    A --> I[Characterization]
+    I --> J[SEM Imaging]
+    J --> K[Diameter & 3D Morphology]
+    A --> L[Optimization using ML]
+    L --> M[Inputs: Process Parameters + SEM Data]
+    M --> N[ML Model (e.g. Regression)]
+    N --> O[Predicted Fiber Diameter]
+    O --> P{Evaluation}
+    P --> Q[Minimize Prediction Error]
+    Q --> R[Research Question: How can ML optimize RFS parameters to produce desired 3D nanofiber structures?]
