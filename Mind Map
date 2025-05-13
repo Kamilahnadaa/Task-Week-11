@@ -1,0 +1,23 @@
+mindmap
+  root((Optimizing 3D Nanofiber Fabrication))
+    Method
+      Rotary Forcespinning
+      Process Parameters
+        Rotary Speed
+        Polymer Concentration
+        Nozzle Distance
+    Material
+      Polyamide
+      PVDF
+      Solvent
+    Characterization
+      SEM
+      Fiber Diameter
+      3D Morphology
+    Optimization
+      Machine Learning
+      Dataset Generation
+      Target Output: Uniform Diameter
+    Application
+      Filtration
+      Biomedical
